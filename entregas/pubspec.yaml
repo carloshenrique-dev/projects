@@ -1,0 +1,50 @@
+name: upentregas
+description: UpEntregas.
+
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  connectivity: ^3.0.6
+  sms_autofill: ^2.2.0
+  intl_phone_number_input: ^0.7.0+2
+  extended_masked_text: ^2.3.1
+  google_fonts: ^2.1.0
+  timeline_tile: ^2.0.0
+  geolocator: ^7.7.1
+  image_picker: ^0.8.4+4
+  font_awesome_flutter: ^9.2.0
+  hand_signature: ^2.1.0+2
+  libphonenumber: ^2.0.2
+  get: ^4.3.8
+  camera_camera: ^2.0.2
+  url_launcher: ^6.0.12
+  intl: ^0.17.0
+  device_info: ^2.0.3
+  charset_converter: ^2.0.0
+  
+  up_template:
+    git: 
+     url: git@github.com:updesenv/up_template.git
+     ref: master
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.4
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+
+flutter:
+  generate: true
+  uses-material-design: true  
+  assets:
+      - assets/images/

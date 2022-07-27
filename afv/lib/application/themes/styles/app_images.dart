@@ -1,0 +1,31 @@
+class AppImages {
+  static const place = 'assets/images/place.png';
+  static const logoAuth = 'assets/images/logo_auth.png';
+  static const logoAuthDark = 'assets/images/logo_auth_dark.png';
+  static const logoLogin = 'assets/images/logo_login.png';
+  static const logoLoginDark = 'assets/images/logo_login_dark.png';
+  static const connectionError = 'assets/images/connection_error.png';
+  static const connectionErrorDark = 'assets/images/connection_error_dark.png';
+  static const package = 'assets/images/package.png';
+  static const changeDevice = 'assets/images/change_device.png';
+  static const chooseNavigation = 'assets/images/choose_navigation.png';
+  static const boxSolid = 'assets/images/box_solid.png';
+  static const bullseyeSolid = 'assets/images/bullseye_solid.png';
+  static const calendarSolid = 'assets/images/calendar_solid.png';
+  static const cashRegisterSolid = 'assets/images/cash_register_solid.png';
+  static const circleCheckSolid = 'assets/images/circle_check_solid.png';
+  static const fineLinesSolid = 'assets/images/file_lines_solid.png';
+  static const gearSolid = 'assets/images/gear_solid.png';
+  static const idCardSolid = 'assets/images/idCard_solid.png';
+  static const moneySolid = 'assets/images/money_solid.png';
+  static const penSolid = 'assets/images/pen_solid.png';
+  static const userSolid = 'assets/images/user_solid.png';
+  static const moneyCardSolid = 'assets/images/money_card.png';
+  static const logOut = 'assets/images/logout.png';
+  static const xSolid = 'assets/images/x_solid.png';
+  static const loginMaster = 'assets/images/loginMaster.png';
+  static const cancellation = 'assets/images/cancellation.png';
+  static const trashCan = 'assets/images/trashCan_solid.png';
+  static const floppyDisk = 'assets/images/floppyDisk_solid.png';
+  static const plane = 'assets/images/plane_solid.png';
+}
